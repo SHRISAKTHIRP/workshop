@@ -1,0 +1,26 @@
+.bg-container{
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/id/672450320/photo/shopping-carts-in-the-supermarket.jpg?s=2048x2048&w=is&k=20&c=Z8lfmqQ0jw6AXA91Bl0rfF0Uvy4qEIzFvd6zgZpamS4=");
+    background-size: cover;
+    height: 200vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+}
+.choices{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    display: flex space-evenly;
+}
+.description{
+    background-color: rgb(225, 44, 44) ;
+    background-image: url("https://stock.adobe.com/search?k=grocery+logos");
+    width: 500px;
+    height: 50px;
+    gap: 100px;
+}
+.foot{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
